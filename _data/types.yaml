@@ -14,10 +14,6 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-master:
-  icon: fa-solid fa-graduation-cap
-  description: Master's Student
-
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
@@ -33,6 +29,12 @@ mascot:
 faculty:
   icon: fa-solid fa-chalkboard-user
   description: Faculty
+
+masters: 
+  description: Masters Student
+
+alumni: 
+  description: Alumni
 
 # general
 
