@@ -1,22 +1,13 @@
 ---
 ---
 
-# Lab Website Template
+# HeelSec
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+HeelSec is the computer security group of the [Department of Computer Science](https://www.cs.unc.edu) at the [UNC Chapel Hill](https://www.unc.edu/). HeelSec is led by [Prof. Andrew Kwong](https://andrewkwong.org).
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
+Our research focuses system-level security with a focus on the intersection between hardware and software. Our current project focuses on memory safety and the application of software techniques to exploit hardware vulnerabilities. Please refer to the [projects](/projects) tab to see our current work in progress and [research](/research) for a detailed list of publications. 
+
+##### **Opening: We are looking for talented and motivated PhD students with a strong background in cybersecurity, computer architecture, or systems. Please apply to UNC through the [application system](https://applynow.unc.edu/apply/) and reach out to us with a brief introduction and your CV.**
 
 {% include section.html %}
 
