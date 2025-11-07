@@ -19,4 +19,3 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 {% include list.html data="members" component="portrait" filter="group == 'alumni'" %}
 
-{% include grid.html style="square" content=content %}
