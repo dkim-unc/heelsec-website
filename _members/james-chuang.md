@@ -1,5 +1,5 @@
 ---
-name: James Chuang
+name: Lihsuan Chuang
 image: images/photo.jpg
 role: masters
 links:
