@@ -1,4 +1,4 @@
-- title: Cool Dataset
+- title: Rowhammer on GPUs
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
@@ -8,7 +8,7 @@
   tags:
     - resource
 
-- title: Cool Package
+- title: Side Channels for Keystoke Recovery
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
@@ -18,7 +18,7 @@
   tags:
     - resource
 
-- title: Cool Tutorial
+- title: Rowhammer on Peripharals
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
@@ -28,16 +28,7 @@
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
+- title: Other Side Channels
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/

@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Lab Website Template
+title: Heelsec group
 subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+description: We do hardware security and side channel research
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false

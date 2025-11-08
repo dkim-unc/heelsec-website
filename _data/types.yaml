@@ -75,6 +75,7 @@ address:
   text: Address
   tooltip: Address
 
+
 search:
   icon: fa-solid fa-magnifying-glass
   text: Search
