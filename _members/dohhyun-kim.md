@@ -1,9 +1,10 @@
 ---
 name: Dohhyun Kim
-image: images/d.jpg
+image: images/dohhyun-kim.jpg
 role: masters
 links:
   github: john-doe
   email: dohhyun@cs.unc.edu
+  linkedin: 
 ---
 

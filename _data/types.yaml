@@ -11,11 +11,11 @@ postdoc:
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-user
   description: PhD Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-user
   description: Undergraduate Student
 
 programmer:
@@ -30,10 +30,12 @@ faculty:
   icon: fa-solid fa-chalkboard-user
   description: Faculty
 
-masters: 
+masters:
+  icon: fa-solid fa-user 
   description: Masters Student
 
 alumni: 
+  icon: fa-solid fa-gradation-cap
   description: Alumni
 
 postdoc:

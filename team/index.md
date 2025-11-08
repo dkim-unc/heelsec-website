@@ -8,14 +8,16 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}People
 {% include section.html %}
 
+# {% include icon.html icon="fa-solid fa-chalkboard-user" %}Faculty
+
 {% include list.html data="members" component="portrait" filter="group != 'alumni' && role == 'faculty'" %}
+# {% include icon.html icon="fa-solid fa-users" %}Students
 {% include list.html data="members" component="portrait" filter="group != 'alumni' && role == 'phd'" %}
 {% include list.html data="members" component="portrait" filter="group != 'alumni' && role == 'masters'" %}
 {% include list.html data="members" component="portrait" filter="group != 'alumni' && role == 'undergrad'" %}
-
 {% include section.html background="images/background.jpg" dark=true %}
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-users" %}Alumni
+# {% include icon.html icon="fa-solid fa-graduate" %}Alumni
 {% include list.html data="members" component="portrait" filter="group == 'alumni'" %}
 
